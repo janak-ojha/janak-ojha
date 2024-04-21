@@ -30,6 +30,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+### 🛠 &nbsp;Tech Stack
+<img src="https://skillicons.dev/icons?i=js,typescript,next,python,django,solidity,git" title="Javascript, Typescript, React.js, Next.js, Python, Django, Solidity, Tailwind, Firebase" alt="Javascript, Typescript, React.js, Next.js, Python, Django, Solidity, Tailwind, Firebase" /> <br /><br />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
