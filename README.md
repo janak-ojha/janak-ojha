@@ -1,3 +1,4 @@
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 - 🔭 I’m currently working on LangChain and LLM models
 
 - 🌱 I’m currently learning NLP with Data Analytics
