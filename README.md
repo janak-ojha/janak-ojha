@@ -22,7 +22,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://github-readme-stats.vercel.app/api?username=janak-ojha&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sunilgiri7&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=janak-ojha&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=janak-ojha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
