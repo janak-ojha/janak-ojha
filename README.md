@@ -31,7 +31,7 @@
 
 ---
 ### 🛠 &nbsp;Tech Stack
-<img src="https://skillicons.dev/icons?i=js,typescript,next,python,django,solidity,git" title="Javascript, Typescript, React.js, Next.js, Python, Django, Solidity, Tailwind, Firebase" alt="Javascript, Typescript, React.js, Next.js, Python, Django, Solidity, Tailwind, Firebase" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,next,python,Machine Learning,git" title="Javascript,Machine Learning,Deep Learning,NLP React.js, Next.js, Python, Machine Learning, Deep Learning, NLP,Tailwind" alt="Javascript, Typescript, React.js, Next.js, Python,Machine learning, Deep Learning,NLP ,Tailwind" /> <br /><br />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
