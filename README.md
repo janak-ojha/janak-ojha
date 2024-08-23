@@ -31,7 +31,13 @@
 
 ---
 ### 🛠 &nbsp;Tech Stack
-<img src="https://skillicons.dev/icons?i=js,next,python,Machine Learning,git" title="Javascript,Machine Learning,Deep Learning,NLP React.js, Next.js, Python, Machine Learning, Deep Learning, NLP,Tailwind" alt="Javascript, Typescript, React.js, Next.js, Python,Machine learning, Deep Learning,NLP ,Tailwind" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,next,python,git" title="Javascript, Next.js, Python, Git" alt="Javascript, Next.js, Python, Git" />
+
+<!-- Custom icons for ML, DL, NLP -->
+<i class="fas fa-robot" title="Machine Learning"></i>
+<i class="fas fa-brain" title="Deep Learning"></i>
+<i class="fas fa-language" title="Natural Language Processing"></i>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
